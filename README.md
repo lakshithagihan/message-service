@@ -39,9 +39,9 @@ Follow the [Docker Documentation](https://docs.docker.com/engine/install/) for d
 
 4. Clone the project to your working directory.
 
-Clone with HTTPS : https://gitlab.com/lakshitha-gw/lucky7-microservices/message-service.git
+Clone with HTTPS : https://github.com/lakshithagihan/message-service.git
 
-Clone with SSH : git@gitlab.com:lakshitha-gw/lucky7-microservices/message-service.git
+Clone with SSH : git@github.com:lakshithagihan/message-service.git
 
 5. Build the artifacts using maven.
 
